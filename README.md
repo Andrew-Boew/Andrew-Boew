@@ -2,26 +2,13 @@
 
 <img src="./assets/header.svg" width="100%" alt="Andrew Boew — Systems, Automation, Software" />
 
-<a href="mailto:boeva.tn15@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/Inspektor_Bo"><img src="https://img.shields.io/badge/CONTACT-TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://github.com/Andrew-Boew?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 <img src="https://komarev.com/ghpvc/?username=Andrew-Boew&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=Systems+Engineering;Automation+%26+Developer+Tools;Apple+Platforms;Software+Analysis+%26+Security" alt="Specialization" /></a>
 
 </div>
-
-## About
-
-```text
-I turn complex technical tasks into clear, reproducible and documented solutions.
-```
-
-Разрабатываю системные утилиты, инструменты автоматизации и прикладные продукты. Мне интересно исследовать внутреннее устройство программ, проектировать понятную архитектуру и доводить решения до проверяемого результата.
-
-- `build` — системное и прикладное ПО;
-- `analyze` — алгоритмы, исполняемые файлы и поведение программ;
-- `automate` — повторяемые процессы, отчёты и рабочие инструменты;
-- `document` — точная документация, тесты и воспроизводимость.
 
 ## Tech stack
 
@@ -64,21 +51,13 @@ I turn complex technical tasks into clear, reproducible and documented solutions
 
 </div>
 
-## Engineering principles
-
-```text
-Understand → Design → Build → Verify → Document → Improve
-```
-
-Я ценю понятные интерфейсы, контролируемые изменения, реальные проверки и документацию, которой можно доверять.
-
 ## Contact
 
 <div align="center">
 
 ### Есть идея или техническая задача?
 
-<a href="mailto:boeva.tn15@gmail.com"><img src="https://img.shields.io/badge/LET%27S_TALK-boeva.tn15%40gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+<a href="https://t.me/Inspektor_Bo"><img src="https://img.shields.io/badge/TELEGRAM-%40Inspektor__Bo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact via Telegram" /></a>
 
 <sub>Открыт к обсуждению проектов, технических идей и совместной разработки.</sub>
 
