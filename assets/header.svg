@@ -7,7 +7,7 @@
       <stop offset="0.52" stop-color="#111827"/>
       <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
-    <linearGradient id="accent" x1="354" y1="280" x2="790" y2="280" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="354" y1="280" x2="760" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#58A6FF"/>
       <stop offset="0.52" stop-color="#A78BFA"/>
       <stop offset="1" stop-color="#7EE787"/>
@@ -55,5 +55,5 @@
 
   <text x="350" y="215" fill="#A78BFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="52" font-weight="800" letter-spacing="4">ANDREW BOEW</text>
   <text x="354" y="259" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="17" font-weight="600" letter-spacing="4">SYSTEMS  •  AUTOMATION  •  SOFTWARE</text>
-  <path d="M354 280H790" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M354 280H760" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
 </svg>
