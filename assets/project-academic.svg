@@ -1,0 +1,26 @@
+<svg width="580" height="180" viewBox="0 0 580 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Academic Report Studio</title>
+  <desc id="desc">Automation and verified DOCX reports</desc>
+  <defs>
+    <linearGradient id="academicBorder" x1="20" y1="15" x2="560" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <radialGradient id="academicGlow" cx="0" cy="0" r="1" gradientTransform="translate(60 35) rotate(35) scale(260 190)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="178" rx="18" fill="#0D1117" stroke="url(#academicBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="576" height="176" rx="17" fill="url(#academicGlow)"/>
+  <circle cx="64" cy="62" r="31" fill="#58A6FF" fill-opacity="0.16" stroke="#58A6FF"/>
+  <text x="64" y="69" text-anchor="middle" fill="#58A6FF" font-family="ui-monospace, SFMono-Regular, monospace" font-size="19" font-weight="700">AR</text>
+  <text x="112" y="53" fill="#58A6FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="750">Academic Report Studio</text>
+  <text x="112" y="79" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Automation • reproducibility • verified DOCX</text>
+  <text x="34" y="119" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">From methodical requirements to a tested, structured report.</text>
+  <rect x="34" y="139" width="74" height="25" rx="12.5" fill="#58A6FF" fill-opacity="0.14" stroke="#58A6FF" stroke-opacity="0.65"/>
+  <text x="71" y="156" text-anchor="middle" fill="#A5D6FF" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12">Python</text>
+  <rect x="118" y="139" width="66" height="25" rx="12.5" fill="#7C3AED" fill-opacity="0.16" stroke="#A78BFA" stroke-opacity="0.65"/>
+  <text x="151" y="156" text-anchor="middle" fill="#D8B4FE" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12">DOCX</text>
+  <path d="M516 145L540 145M532 137L540 145L532 153" stroke="#7EE787" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg width="1200" height="88" viewBox="0 0 1200 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Decorative footer">
+  <defs>
+    <linearGradient id="footerGradient" x1="120" y1="30" x2="1080" y2="65" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#7EE787"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 62C150 20 300 18 450 51C600 84 760 88 910 48C1020 19 1110 21 1200 38V88H0V62Z" fill="url(#footerGradient)" fill-opacity="0.18"/>
+  <path d="M0 62C150 20 300 18 450 51C600 84 760 88 910 48C1020 19 1110 21 1200 38" stroke="url(#footerGradient)" stroke-width="3"/>
+</svg>

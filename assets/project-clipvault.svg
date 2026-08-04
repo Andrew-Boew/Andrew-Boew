@@ -1,0 +1,26 @@
+<svg width="580" height="180" viewBox="0 0 580 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">ClipVault</title>
+  <desc id="desc">A practical product for Apple platforms</desc>
+  <defs>
+    <linearGradient id="clipBorder" x1="20" y1="15" x2="560" y2="165" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#7EE787"/>
+    </linearGradient>
+    <radialGradient id="clipGlow" cx="0" cy="0" r="1" gradientTransform="translate(520 150) rotate(-145) scale(300 200)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="578" height="178" rx="18" fill="#0D1117" stroke="url(#clipBorder)" stroke-width="2"/>
+  <rect x="2" y="2" width="576" height="176" rx="17" fill="url(#clipGlow)"/>
+  <circle cx="64" cy="62" r="31" fill="#A78BFA" fill-opacity="0.16" stroke="#A78BFA"/>
+  <text x="64" y="69" text-anchor="middle" fill="#D8B4FE" font-family="ui-monospace, SFMono-Regular, monospace" font-size="19" font-weight="700">CV</text>
+  <text x="112" y="53" fill="#A78BFA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="750">ClipVault</text>
+  <text x="112" y="79" fill="#8B949E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Apple platforms • product engineering • UX</text>
+  <text x="34" y="119" fill="#C9D1D9" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">A focused application built around a practical daily workflow.</text>
+  <rect x="34" y="139" width="68" height="25" rx="12.5" fill="#F05138" fill-opacity="0.15" stroke="#F05138" stroke-opacity="0.7"/>
+  <text x="68" y="156" text-anchor="middle" fill="#FFB4A2" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12">Swift</text>
+  <rect x="112" y="139" width="76" height="25" rx="12.5" fill="#7EE787" fill-opacity="0.12" stroke="#7EE787" stroke-opacity="0.65"/>
+  <text x="150" y="156" text-anchor="middle" fill="#AFF5B4" font-family="ui-monospace, SFMono-Regular, monospace" font-size="12">macOS</text>
+  <path d="M516 145L540 145M532 137L540 145L532 153" stroke="#7EE787" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
