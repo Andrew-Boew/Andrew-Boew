@@ -13,11 +13,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://skillicons.dev/icons?i=python,c,cpp,swift,bash,js,react,fastapi,docker,nginx,redis,postgres,sqlite,git,github,vscode,xcode,cmake&theme=dark&perline=18" alt="Python, C, C++, Swift, Bash, JavaScript, React, FastAPI, Docker, Nginx, Redis, PostgreSQL, SQLite, Git, GitHub, VS Code, Xcode, CMake" />
+<img width="100%" src="https://skillicons.dev/icons?i=python,c,cpp,swift,bash,js,react,fastapi,docker,nginx,redis,postgres,sqlite,git,github,vscode,apple,cmake&theme=dark&perline=18" alt="Python, C, C++, Swift, Bash, JavaScript, React, FastAPI, Docker, Nginx, Redis, PostgreSQL, SQLite, Git, GitHub, VS Code, Xcode, CMake" />
 
 <br />
 
-<sub>Python · C · C++ · Swift · Objective-C · Bash · JavaScript · React · FastAPI · Docker · Nginx · Redis · PostgreSQL · SQLite · Git · GitHub · VS Code · Xcode · CMake · IDA Pro · Ghidra · LLDB · GDB · angr · python-docx</sub>
+<p>
+<code>Python</code> <code>C</code> <code>C++</code> <code>Swift</code> <code>Objective-C</code> <code>Bash</code> <code>JavaScript</code> <code>React</code> <code>FastAPI</code> <code>Docker</code> <code>Nginx</code> <code>Redis</code> <code>PostgreSQL</code> <code>SQLite</code> <code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Xcode</code> <code>CMake</code> <code>IDA Pro</code> <code>Ghidra</code> <code>LLDB</code> <code>GDB</code> <code>angr</code> <code>python-docx</code>
+</p>
 
 </div>
 
