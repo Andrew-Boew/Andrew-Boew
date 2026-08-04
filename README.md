@@ -13,49 +13,11 @@
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,swift,bash&theme=dark&perline=5" alt="Python, C, C++, Swift, Bash" />
+<img width="100%" src="https://skillicons.dev/icons?i=python,c,cpp,swift,bash,js,react,fastapi,docker,nginx,redis,postgres,sqlite,git,github,vscode,xcode,cmake&theme=dark&perline=18" alt="Python, C, C++, Swift, Bash, JavaScript, React, FastAPI, Docker, Nginx, Redis, PostgreSQL, SQLite, Git, GitHub, VS Code, Xcode, CMake" />
 
 <br />
 
-![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-x86__64%20%7C%20ARM64-7C3AED?style=flat-square)
-
-### Platforms & frameworks
-
-![macOS](https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-111827?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
-![AppKit](https://img.shields.io/badge/AppKit-111827?style=flat-square&logo=apple&logoColor=white)
-
-### Development & build
-
-<img src="https://skillicons.dev/icons?i=xcode,git,github,vscode,cmake&theme=dark&perline=5" alt="Xcode, Git, GitHub, VS Code, CMake" />
-
-<br />
-
-![Make](https://img.shields.io/badge/Make-427819?style=flat-square&logo=gnu&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-238636?style=flat-square)
-
-### Software analysis
-
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-5C2D91?style=flat-square)
-![Ghidra](https://img.shields.io/badge/Ghidra-E34F26?style=flat-square)
-![LLDB](https://img.shields.io/badge/LLDB-334155?style=flat-square)
-![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
-![angr](https://img.shields.io/badge/angr-Symbolic_Execution-7C3AED?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-111827?style=flat-square)
-
-### Documents & reproducible reports
-
-![python-docx](https://img.shields.io/badge/python--docx-3776AB?style=flat-square&logo=python&logoColor=white)
-![DOCX](https://img.shields.io/badge/DOCX-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![PDF](https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
+<sub>Python · C · C++ · Swift · Objective-C · Bash · JavaScript · React · FastAPI · Docker · Nginx · Redis · PostgreSQL · SQLite · Git · GitHub · VS Code · Xcode · CMake · IDA Pro · Ghidra · LLDB · GDB · angr · python-docx</sub>
 
 </div>
 
