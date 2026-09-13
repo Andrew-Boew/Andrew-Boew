@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Boew&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7EE787&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andrew-Boew&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=7EE787&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity&v=2" alt="Contribution activity graph" />
 
 </div>
 
